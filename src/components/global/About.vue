@@ -5,9 +5,9 @@
 <template>
     <div class="about">
         <div class="about-header">
-            <span></span>
+            <div class="about-header-line"></div>
             <img src="../../assets/images/Vector-Moon.png">
-            <span></span>
+            <div class="about-header-line"></div>
         </div>
         <div class="about-content">
             <div class="about-content-info">
