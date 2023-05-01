@@ -1,7 +1,7 @@
-
+import Header from './Header.vue'
 
 const components = [
-
+    {name: 'Header', component: Header}
 ]
 
 export default {
