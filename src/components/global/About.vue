@@ -10,7 +10,7 @@
             <div class="about-header-line"></div>
         </div>
         <div class="about-content">
-            <div class="about-content-info">
+            <div class="about-content-info about-content-info-left">
                 <h2>Personalized Classes</h2>
                 <p>
                     Lorem ipsum dolor sit amet, nihil 
@@ -20,7 +20,7 @@
                 </p>
                 <button class="about-btn"></button>
             </div>
-            <div class="about-content-info">
+            <div class="about-content-info about-content-info-center">
                 <h2>Group and Family Classes</h2>
                 <p>
                     Lorem ipsum dolor sit amet, nihil 
@@ -30,7 +30,7 @@
                 </p>
                 <button class="about-btn"></button>
             </div>
-            <div class="about-content-info">
+            <div class="about-content-info about-content-info-right">
                 <h2>Classes for Companies</h2>
                 <p>
                     Lorem ipsum dolor sit amet, nihil 
