@@ -6,6 +6,7 @@
   <div>
     <Header />
     <HomePage />
+    <About />
   </div>
 </template>
 
