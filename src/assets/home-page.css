@@ -1,0 +1,46 @@
+.home-page {
+    background: RGBA(209, 205, 204, 1);
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 118px 0 98px;
+}
+
+.home-page-content {
+    height: 436px;
+}
+
+.home-page-content h1 {
+    width: 631px;
+    font-size: 103px;
+    line-height: 117px;
+    letter-spacing: 10px;
+}
+
+.home-page-content p {
+    font-size: 26px;
+    width: 536px;
+    letter-spacing: 4px;
+    line-height: 27px;
+    font-weight: 700;
+    word-spacing: 7px;
+    margin-top: 59px;
+}
+
+.home-page-img {
+    height: 550px;
+    background: #fff;
+    width: 523px;
+    margin-top: 29px;
+}
+
+.home-page-img img {
+    margin: 20px;
+}
+
+#lantern {
+    position: absolute;
+    top: 0;
+    right: 290px;
+    margin: 0;
+}
