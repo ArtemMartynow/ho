@@ -4,8 +4,8 @@
 
 <template>
   <div>
-
     <Header />
+    <HomePage />
   </div>
 </template>
 

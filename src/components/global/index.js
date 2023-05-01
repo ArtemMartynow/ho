@@ -1,7 +1,9 @@
 import Header from './Header.vue'
+import HomePage from './HomePage.vue'
 
 const components = [
-    {name: 'Header', component: Header}
+    {name: 'Header', component: Header},
+    {name: 'HomePage', component: HomePage},
 ]
 
 export default {

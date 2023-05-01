@@ -1,0 +1,29 @@
+header {
+    width: 1236px;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    padding: 74px 115px 114px 116px;
+    background: RGBA(209, 205, 204, 1);
+}
+
+.links {
+    width: 885px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    height: 11px;
+    margin-top: 34px;
+}
+
+.links a {
+    color: #1F3022;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.links a:hover {
+    color: #a36e6e;
+}
