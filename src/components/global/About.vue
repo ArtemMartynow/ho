@@ -18,7 +18,7 @@
                     apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
-                <button class="about-btn"></button>
+                <button class="about-btn">more info</button>
             </div>
             <div class="about-content-info about-content-info-center">
                 <h2>Group and Family Classes</h2>
@@ -28,7 +28,7 @@
                     apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
-                <button class="about-btn"></button>
+                <button class="about-btn">more info</button>
             </div>
             <div class="about-content-info about-content-info-right">
                 <h2>Classes for Companies</h2>
@@ -38,7 +38,7 @@
                     apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
-                <button class="about-btn"></button>
+                <button class="about-btn">more info</button>
             </div>
         </div>
     </div>
