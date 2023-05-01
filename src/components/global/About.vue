@@ -13,9 +13,9 @@
             <div class="about-content-info about-content-info-left">
                 <h2>Personalized Classes</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, nihil 
-                    nominavi delicatissimi et pri, harum 
-                    apeirian sea te. Per quod prima tamquam 
+                    Lorem ipsum dolor sit amet,<br> nihil 
+                    nominavi delicatissimi <br> et pri, harum 
+                    apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
                 <button class="about-btn"></button>
@@ -23,9 +23,9 @@
             <div class="about-content-info about-content-info-center">
                 <h2>Group and Family Classes</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, nihil 
-                    nominavi delicatissimi et pri, harum 
-                    apeirian sea te. Per quod prima tamquam 
+                    Lorem ipsum dolor sit amet,<br> nihil 
+                    nominavi delicatissimi <br> et pri, harum 
+                    apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
                 <button class="about-btn"></button>
@@ -33,9 +33,9 @@
             <div class="about-content-info about-content-info-right">
                 <h2>Classes for Companies</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, nihil 
-                    nominavi delicatissimi et pri, harum 
-                    apeirian sea te. Per quod prima tamquam 
+                    Lorem ipsum dolor sit amet,<br> nihil 
+                    nominavi delicatissimi <br> et pri, harum 
+                    apeirian sea te. <br> Per quod prima tamquam <br>
                     cu, id case rebum simul vim.
                 </p>
                 <button class="about-btn"></button>
