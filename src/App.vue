@@ -7,6 +7,7 @@
     <Header />
     <HomePage />
     <About />
+    <AteLierBorn />
   </div>
 </template>
 

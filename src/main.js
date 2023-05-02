@@ -8,6 +8,7 @@ import './assets/btns.css'
 import './assets/header.css'
 import './assets/home-page.css'
 import './assets/about.css'
+import './assets/ate-lier-born.css'
 
 const app = createApp(App)
 app.use(globalComponents)
