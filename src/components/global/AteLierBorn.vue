@@ -19,8 +19,8 @@
                     amet, lorem ipsum.
                 </p>
             </div>
-            <h2>Ate lier Born</h2>
+            <h2>Ate <span>Lier</span> Born</h2>
         </div>
-        <h3>A caress to the soul, do yoga.</h3>
+        <p>A caress to the soul, do yoga.</p>
     </div>
 </template>

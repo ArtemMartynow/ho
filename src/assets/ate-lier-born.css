@@ -1,0 +1,81 @@
+.ate-lier-born {
+    background: #D1CDCC;
+    padding: 159px 142px 139px 79px;
+}
+.ate-lier-born p {
+    width: 1164px;
+    height: 23px;
+    font-size: 22px;
+    color: #1F3022;
+    word-spacing: -4px;
+    letter-spacing: 30px;
+    margin: 0 auto;
+}
+
+.ate-lier-born-contend {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 165px;
+}
+
+.ate-lier-born-contend h2 {
+    width: 233px;
+    height: 697px;
+    font-size: 78px;
+    color: #1F3022;
+}
+
+.ate-lier-born-contend h2 span {
+    display: block;
+    margin: 222px 0;
+}
+
+.ate-lier-born-img {
+    height: 717px;
+    width: 890px;
+    position: relative;
+}
+
+.ate-lier-born-img p {
+    width: 732px;
+    height: 72px;
+    color: #1F3022;
+    font-size: 20px;
+    text-align: justify;
+    word-spacing: 3px;
+    margin-left: 45px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+}
+
+.ate-lier-born-img img {
+    width: 775px;
+    margin-top: 22px;
+    margin-left: 28px;
+}
+
+#right-scotch {
+    position: absolute;
+    width: 108px;
+    height: 106px;
+    right: 50px;
+    margin: 0;
+}
+
+#left-scotch {
+    position: absolute;
+    width: 106px;
+    height: 108px;
+    left: 0;
+    margin: 0;
+}
+
+#stamp {
+    position: absolute;    
+    margin: 0;
+    width: 161px;
+    height: 204px;
+    bottom: 158px;
+    right: 0;
+
+}
