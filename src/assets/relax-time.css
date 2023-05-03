@@ -1,0 +1,39 @@
+.relax-time {
+    background: #1F3022;
+    text-align: center;
+    padding-bottom: 120px;
+    padding-top: 146px;
+    position: relative;
+    overflow: hidden;
+}
+
+.relax-time h2 {
+    font-size: 68px;
+    color: #C9C4BC;
+    line-height: 49px;
+    width: 396px;
+    letter-spacing: 6px;
+    margin: 0 auto;
+}
+
+.relax-time p {
+    color: #C9C4BC;
+    font-size: 20px;
+    width: 434px;
+    margin: 0 auto; 
+    line-height: 23px;
+    margin-bottom: 177px;
+    margin-top: 220px;
+}
+
+#left-stamp {
+    position: absolute;
+    top: 148px;
+    left: -257px;
+}
+
+#right-stamp {
+    position: absolute;
+    top: 148px;  
+    right: -251px;
+}
