@@ -8,6 +8,7 @@
     <HomePage />
     <About />
     <AteLierBorn />
+    <RelaxTime />
   </div>
 </template>
 
