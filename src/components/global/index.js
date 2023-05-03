@@ -2,12 +2,14 @@ import Header from './Header.vue'
 import HomePage from './HomePage.vue'
 import About from './About.vue'
 import AteLierBorn from './AteLierBorn.vue'
+import RelaxTime from './RelaxTime.vue'
 
 const components = [
     {name: 'Header', component: Header},
     {name: 'HomePage', component: HomePage},
     {name: 'About', component: About},
-    {name: 'AteLierBorn', component: AteLierBorn}
+    {name: 'AteLierBorn', component: AteLierBorn},
+    {name: 'RelaxTime', component: RelaxTime}
 ]
 
 export default {
