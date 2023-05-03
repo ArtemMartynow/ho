@@ -9,6 +9,8 @@
     <About />
     <AteLierBorn />
     <RelaxTime />
+
+    <Footer />
   </div>
 </template>
 

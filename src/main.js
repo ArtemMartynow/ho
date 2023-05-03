@@ -11,6 +11,8 @@ import './assets/about.css'
 import './assets/ate-lier-born.css'
 import './assets/relax-time.css'
 
+import './assets/footer.css'
+
 const app = createApp(App)
 app.use(globalComponents)
 app.mount('#app')
