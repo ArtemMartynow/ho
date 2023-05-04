@@ -12,7 +12,7 @@
         <div class="footer-bottom">
             <a href="#">enter your email here and subscribe</a>
             <img src="../../assets/images/Place-Your-Logo-Here.png">
-            <p></p>
+            <p>© 2020 Oh’ponopono Yoga. All rights reserved</p>
         </div>
     </footer>
 </template>
