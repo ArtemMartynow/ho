@@ -1,0 +1,63 @@
+.message {
+    text-align: center;
+    background: #D1CDCC;
+    padding-bottom: 111px;
+    padding-top: 128px;
+}
+
+.message h2 {
+    color: #1F3022;
+    font-size: 51px;
+    line-height: 35px;
+    margin-bottom: 71px;
+    letter-spacing: 9px;
+}
+
+form {
+    width: 950px;
+    margin: 0 auto;
+}
+
+input {
+    width: 923px;
+    height: 52px;
+    padding-left: 21px;
+    border: 2px solid #1F3022; 
+    font-size: 15px;
+    font-weight: 700;
+    background: #D1CDCC;
+}
+
+input::placeholder {
+    color: #1F3022;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+textarea {
+    resize: none;
+    width: 923px;
+    height: 134px;
+    padding-left: 21px;
+    border: 2px solid #1F3022; 
+    font-size: 15px;
+    font-weight: 700;
+    background: #D1CDCC;
+    margin-bottom: -4px;
+    border-bottom: none;
+    padding-top: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+textarea::placeholder {
+    color: #1F3022;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+#email {
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
