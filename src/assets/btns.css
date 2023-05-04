@@ -50,4 +50,6 @@
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
+    background: none;
+    cursor: pointer;
 }
