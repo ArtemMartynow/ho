@@ -9,7 +9,7 @@
     <About />
     <AteLierBorn />
     <RelaxTime />
-
+    <Message />
     <Footer />
   </div>
 </template>

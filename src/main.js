@@ -10,7 +10,7 @@ import './assets/home-page.css'
 import './assets/about.css'
 import './assets/ate-lier-born.css'
 import './assets/relax-time.css'
-
+import './assets/message.css'
 import './assets/footer.css'
 
 const app = createApp(App)
