@@ -1,12 +1,13 @@
 footer {
     background: #D1CDCC;
-    padding: 88px 110px 100px 100px;
+    padding: 5% 8% 8% 8%;
 }
 
 .footer-top {
     display: flex;
     justify-content: space-between;
     margin-bottom: 70px;
+    flex-wrap: wrap;
 }
 
 .footer-top p {
@@ -14,12 +15,14 @@ footer {
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 4px;
+    margin-top: 10px;
 }
 
 .footer-bottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .footer-bottom a {

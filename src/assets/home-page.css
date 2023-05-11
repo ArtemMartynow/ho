@@ -2,8 +2,9 @@
     background: RGBA(209, 205, 204, 1);
     position: relative;
     display: flex;
-    justify-content: space-between;
-    padding: 0 118px 131px 98px;
+    justify-content: space-around;
+    padding: 0 5% 9% 5%;
+    flex-wrap: wrap;
 }
 
 .home-page-content {
@@ -32,6 +33,7 @@
     background: #fff;
     width: 523px;
     margin-top: 29px;
+    position: relative;
 }
 
 .home-page-img img {
@@ -40,7 +42,7 @@
 
 #lantern {
     position: absolute;
-    top: 0;
-    right: 290px;
+    top: -5%;
+    right: 34%;
     margin: 0;
 }

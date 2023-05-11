@@ -1,9 +1,9 @@
 .ate-lier-born {
     background: #D1CDCC;
-    padding: 159px 142px 139px 79px;
+    padding: 11% 8% 10% 5%;
 }
 .ate-lier-born p {
-    width: 1164px;
+    width: 93%;
     height: 23px;
     font-size: 22px;
     color: #1F3022;
@@ -14,8 +14,9 @@
 
 .ate-lier-born-contend {
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 165px;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 14%;
 }
 
 .ate-lier-born-contend h2 {

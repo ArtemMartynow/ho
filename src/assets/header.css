@@ -1,14 +1,14 @@
 header {
-    width: 1227px;
+    width: 85%;
     height: 56px;
     display: flex;
     justify-content: space-between;
-    padding: 74px 113px 114px 102px;
+    padding: 5% 8% 8% 7%;
     background: RGBA(209, 205, 204, 1);
 }
 
 .links {
-    width: 885px;
+    width: 72%;
     display: flex;
     justify-content: space-between;
     font-size: 14px;
